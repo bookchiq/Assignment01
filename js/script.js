@@ -111,6 +111,9 @@
 
 /* Exercise 15: */
 // Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable.
+// let name = prompt('What is your name?');
+// let course = 'JavaScript';
+// alert('Hello ' + name + '.\nWelcome to the ' + course + ' class!');
 
 /* Exercise 16: */
 // Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
