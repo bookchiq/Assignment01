@@ -55,6 +55,10 @@
 // Create two variables.
 // For the first variable, add a Boolean and a string and display the coerced result.
 // For the second variable, add a number and a Boolean and display the coerced result.
+// let coercedBooleanAndString = true + 'Hello';
+// let coercedNumberAndBoolean = 5 + true;
+// console.log(coercedBooleanAndString);
+// console.log(coercedNumberAndBoolean);
 
 /* Exercise 8: */
 // Is the following string literal valid? If not, how would you fix it?
