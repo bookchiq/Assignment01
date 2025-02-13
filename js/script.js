@@ -96,6 +96,9 @@
 /* Exercise 13: */
 // Declare a variable called course and set it equal to “JavaScript”.
 // Rework your alert string so that it displays the string of text but using the variables as opposed to hard coded text.
+// let course = 'JavaScript';
+// let name = 'Sarah Lewis';
+// alert('Hello ' + name + ', welcome to the ' + course + ' class!');
 
 /* Exercise 14: */
 // Rework the above string so that a line break is added right before the word “Welcome”. Your alert box should display as follows:
