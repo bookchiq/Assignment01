@@ -68,10 +68,13 @@
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'
 // console.log(someString)
 
-
 /* Exercise 9: */
 // Create a variable that produces a null value in the console window.
 // Then, create a variable that produces an undefined value in the console window.
+// let nullVariable = null;
+// let undefinedVariable;
+// console.log(nullVariable);
+// console.log(undefinedVariable);
 
 /* Exercise 10: */
 // Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
