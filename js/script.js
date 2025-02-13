@@ -90,6 +90,8 @@
 /* Exercise 12: */
 // Declare a variable called name and set it equal to your name.
 // Substitute your name in the previous alert string with the variable instead.
+// let name = 'Sarah Lewis';
+// alert('Hello ' + name + ', welcome to the JavaScript class!');
 
 /* Exercise 13: */
 // Declare a variable called course and set it equal to “JavaScript”.
