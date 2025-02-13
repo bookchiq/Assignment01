@@ -78,6 +78,15 @@
 
 /* Exercise 10: */
 // Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
+// let myString = 'Hello';
+// let myNumber = 42;
+// let myBoolean = true;
+// let myObject = { key: 'value' };
+// console.log(typeof myString); // string
+// console.log(typeof myNumber); // number
+// console.log(typeof myBoolean); // boolean
+// console.log(typeof myObject); // object
+// console.log(typeof undefinedVariable); // undefined
 
 /* Exercise 11: */
 // Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows:
