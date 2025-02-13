@@ -117,6 +117,9 @@
 
 /* Exercise 16: */
 // Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
+// let name = prompt('What is your name?');
+// let course = prompt('What class are you taking?');
+// alert('Hello ' + name + '.\nWelcome to the ' + course + ' class!');
 
 /* Exercise 17: */
 // Declare a variable called x and assign it a value of 10.
