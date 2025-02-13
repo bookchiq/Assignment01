@@ -169,3 +169,5 @@
 
 /* Exercise 22: */
 // Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result within the console window. The application cannot use the same operators used in the previous application.
+// let result = (5 < 3) || (2 > 4);
+// console.log(result);
