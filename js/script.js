@@ -7,16 +7,16 @@
 
 /* Exercise 2: */
 // a numeric literal expression
-
+// 7
 
 // a string literal expression
-
+// 'Sarah'
 
 // a Boolean literal expression
-
+// true
 
 // a null literal expression
-
+// null
 
 /* Exercise 3: */
 // Give me two examples of complex / variable expressions.
