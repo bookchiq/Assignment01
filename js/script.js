@@ -141,6 +141,9 @@
 // Declare a variable called x and assign it a value of 20.
 // Multiply and assign 5 to that variable and display the result in the console window.
 // The result should be 100.
+// let x = 20;
+// x *= 5;
+// console.log(x);
 
 /* Exercise 20: */
 // Declare a variable called x and assign it a value that equals the remainder of 20 divided by 3.
