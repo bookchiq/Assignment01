@@ -62,9 +62,12 @@
 
 /* Exercise 8: */
 // Is the following string literal valid? If not, how would you fix it?
-
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'
 // console.log(someString)
+// No, it's not valid because of the single quotes inside the string ("I'm"). To fix it, we need to escape the inner quote:
+// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."'
+// console.log(someString)
+
 
 /* Exercise 9: */
 // Create a variable that produces a null value in the console window.
