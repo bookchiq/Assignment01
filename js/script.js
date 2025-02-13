@@ -45,8 +45,11 @@
 // let address = '123 Main St', 'New York', state = 'NY', zipCode = '10001';
 
 /* Exercise 6: */
-// Create a variable.
-// Add a number and a string and display the coerced result in the browser’s console window.
+// Create a variable. Add a number and a string and display the coerced result in the browser’s console window.
+// let myFavoriteNumber = 7;
+// let numberString = '5';
+// let myTotal = myFavoriteNumber + numberString;
+// console.log(myTotal);
 
 /* Exercise 7: */
 // Create two variables.
