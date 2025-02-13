@@ -20,6 +20,8 @@
 
 /* Exercise 3: */
 // Give me two examples of complex / variable expressions.
+// let x = 5 + 10;
+// let y = 'Hello' + ' World';
 
 /* Exercise 4: */
 // Declare (but do not assign) 9 variables for the following identifiers: First Name, Last Name, Address, City, State, Zip Code, Your Age, Referral Source, May We Contact You. Use Camel Casing and Hungarian Notation when naming your identifiers.
