@@ -133,6 +133,9 @@
 // Declare a variable called x and assign it a value of 20.
 // Add and assign 20 to that variable and display the result in the console window.
 // The result should be 40.
+// let x = 20;
+// x += 20;
+// console.log(x);
 
 /* Exercise 19: */
 // Declare a variable called x and assign it a value of 20.
