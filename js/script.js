@@ -37,6 +37,12 @@
 
 /* Exercise 5: */
 // Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to those variables.
+// let firstName;
+// firstName = 'John';
+
+// let lastName = 'Doe';
+
+// let address = '123 Main St', 'New York', state = 'NY', zipCode = '10001';
 
 /* Exercise 6: */
 // Create a variable.
