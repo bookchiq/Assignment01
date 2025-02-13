@@ -105,6 +105,9 @@
 
 // Hello Zak Ruvalcaba.
 // Welcome to the JavaScript class!
+// let name = 'Sarah Lewis';
+// let course = 'JavaScript';
+// alert('Hello ' + name + '.\nWelcome to the ' + course + ' class!');
 
 /* Exercise 15: */
 // Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable.
