@@ -125,6 +125,9 @@
 // Declare a variable called x and assign it a value of 10.
 // Declare a variable called y and assign it a value of 20.
 // Display the sum of those two numbers in the console window.
+// let x = 10;
+// let y = 20;
+// console.log(x + y);
 
 /* Exercise 18: */
 // Declare a variable called x and assign it a value of 20.
