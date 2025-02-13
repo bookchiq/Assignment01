@@ -1,9 +1,9 @@
 /* Exercise 1: */
-// let SomeMonth
-// function TheMonth()
-// let CurrentMonth
-// let SummerMonth
-// let MyLibraryFunction
+// let someMonth
+// function theMonth()
+// let currentMonth
+// let summerMonth
+// let myLibraryFunction
 
 /* Exercise 2: */
 // a numeric literal expression
